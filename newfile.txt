@@ -1,14 +1,10 @@
-
+Release Branch version 1.0
 
 testFeature2 - modifying existing file
 
 modification #2
 adding some content
 
-
-
-
 soe more contnet
-
 
 test2
